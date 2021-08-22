@@ -28,10 +28,11 @@ sections:
     title: Our Features
     features:
       - title: Active Community
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          #### Our community is active and friendly, we have alot of amazing
+          members and support team ready to help you with your questions! We
+          have new and special events, amazing giveaways and jobs that include
+          our members.
         align: left
         image: /images/1_woeArz6aLdnxyfFpjrgPbw.jpeg
         image_alt: Feature 1 placeholder image
