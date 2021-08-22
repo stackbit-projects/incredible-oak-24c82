@@ -34,7 +34,7 @@ sections:
           have new and special events, amazing giveaways and jobs that include
           our members.*
         align: left
-        image: /images/1_woeArz6aLdnxyfFpjrgPbw.jpeg
+        image: /images/1627744112167.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
