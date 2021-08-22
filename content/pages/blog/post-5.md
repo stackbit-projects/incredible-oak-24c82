@@ -7,7 +7,7 @@ categories:
 tags:
   - Stackbit
   - Netlify
-image: images/5.png
+image: /images/1628442394351.png
 image_alt: Post 5 placeholder image
 excerpt: >-
   Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
