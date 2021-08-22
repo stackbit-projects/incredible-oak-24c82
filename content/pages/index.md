@@ -34,7 +34,7 @@ sections:
           have new and special events, amazing giveaways and jobs that include
           our members.*
         align: left
-        image: /images/1627744112167.png
+        image: /images/A-Checklist-for-Online-Gaming-Privacy.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
