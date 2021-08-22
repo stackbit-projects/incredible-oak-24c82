@@ -25,7 +25,7 @@ sections:
       background_image_repeat: repeat
       background_image: /images/_.jpeg
   - type: features_section
-    title: Our Features
+    title: Our Feat
     features:
       - title: Feature 1
         content: >-
