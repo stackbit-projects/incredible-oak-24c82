@@ -66,7 +66,7 @@ sections:
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
           ante.
         align: left
-        image: images/feature.svg
+        image: /images/wp4754114.jpg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
