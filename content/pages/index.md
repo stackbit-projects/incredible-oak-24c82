@@ -42,10 +42,16 @@ sections:
             url: /features
             style: secondary
       - title: Gaming Friendly
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          We, in our community work togheter with gaming, so if your a gamer of
+          even just interested in gaming me welcome you with many
+          possibilities. 
+
+
+          If you game solo or in a squad we can help you out, we have alot of
+          gamers in our communites and we love you to join it and ethier show us
+          your skills and join our clans or learn new stuff and become the gamer
+          you dream of.
         align: left
         image: /images/50+ Beautiful Dual Monitors Desktop Wallpapers - Hongkiat.jpeg
         image_alt: Feature 2 placeholder image
