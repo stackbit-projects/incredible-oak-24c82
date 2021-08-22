@@ -25,7 +25,7 @@ sections:
       background_image_repeat: repeat
       background_image: /images/_.jpeg
   - type: features_section
-    title: Features
+    title: Lur Features
     features:
       - title: Feature 1
         content: >-
