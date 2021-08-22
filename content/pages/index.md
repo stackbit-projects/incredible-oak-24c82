@@ -61,10 +61,18 @@ sections:
             url: /features
             style: secondary
       - title: Our Support Team
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          We as usually every server on discord have a team of support members
+          to keep our server safe and clean. Our support members help out in
+          many different ways, if you need help with a game or any questions
+          about our server just open up a ticket and we will help you right
+          away.
+
+
+
+          We have a support team to make members in our server comfortable and
+          safe from any kind of attacks, we want our members to trust us and
+          feel like they can be themselves on this server.
         align: left
         image: /images/wp4754114.jpg
         image_alt: Feature 3 placeholder image
