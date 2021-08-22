@@ -29,10 +29,10 @@ sections:
     features:
       - title: Active Community
         content: >
-          ##### Our community is active and friendly, we have alot of amazing
+          ##### *Our community is active and friendly, we have alot of amazing
           members and support team ready to help you with your questions! We
           have new and special events, amazing giveaways and jobs that include
-          our members.
+          our members.*
         align: left
         image: /images/1_woeArz6aLdnxyfFpjrgPbw.jpeg
         image_alt: Feature 1 placeholder image
