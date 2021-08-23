@@ -5,7 +5,7 @@ author: content/data/team/gordon-norman.yaml
 categories:
   - content/data/categories/general.yaml
 tags:
-  - null
+  - Discord
   - JAMstack
 image: /images/Banner templet (6).png
 image_alt: Post 3 placeholder image
