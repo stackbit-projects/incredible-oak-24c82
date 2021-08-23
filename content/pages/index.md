@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome To PotatoSMP
-    subtitle: .
     actions:
       - label: Learn More
         url: /features
