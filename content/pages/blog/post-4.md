@@ -10,9 +10,10 @@ tags:
 image: /images/Banner templet (5).png
 image_alt: Post 4 placeholder image
 excerpt: >-
-  Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
-  Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
-  vitium consuetudo Latina traduceret.
+  You feel interested in joining us? To be a part of our support team? Well you
+  found the right place to do so!! Here is where you can apply for our support
+  team and give your best in our server. You also maybe become more then just a
+  member in the server.
 seo:
   title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
   description: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
