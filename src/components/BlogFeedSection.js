@@ -58,7 +58,7 @@ export default class BlogFeedSection extends React.Component {
                 <div className="card">
                     {image && (
                         <Link className="card__media card__media--top" href={postUrl}>
-                            <img src={withPrefix(image)} alt={imageAlt} />
+                            
                         </Link>
                     )}
                     <div className="card__body">
