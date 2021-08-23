@@ -23,7 +23,7 @@ sections:
       background_image_opacity: 30
       background_image_size: auto
       background_image_repeat: repeat
-      background_image: /images/35ac9c65d517e40b7cf709ca14a3f9d5.jpg
+      background_image: /images/wallpapersden.com_purple-city_1336x768.jpg
   - type: features_section
     title: Our Features
     features:
