@@ -7,7 +7,6 @@ tags:
   - Netlify
 image: /images/Banner templet.png
 image_alt: Post 5 placeholder image
-excerpt: .
 seo:
   title: Amet Nulla Facilisi Morbi Tempus
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
