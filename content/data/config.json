@@ -29,8 +29,7 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ],
-        "title": "Get To Know Us"
+        ]
     },
     "footer": {
         "has_nav": true,
