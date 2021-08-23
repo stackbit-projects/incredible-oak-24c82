@@ -14,7 +14,6 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: /images/Banner templet (2)-ef29ad38.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
