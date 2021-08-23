@@ -23,7 +23,9 @@ sections:
       background_image_opacity: 30
       background_image_size: auto
       background_image_repeat: repeat
-      background_image: /images/S-M-011YM-Pastel-Purple-1-1020x425.jpg
+      background_image: >-
+        /images/50+ Beautiful Dual Monitors Desktop Wallpapers -
+        Hongkiat-97a4dde7.jpeg
   - type: features_section
     title: Our Features
     features:
