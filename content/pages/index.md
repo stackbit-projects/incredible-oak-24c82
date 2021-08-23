@@ -97,7 +97,7 @@ sections:
     background_color: gray
 seo:
   title: PotatoSMP Official Webpage
-  description: The preview of the Starter theme
+  description: Here is our website and we have a lot of information on it about our server.
   extra:
     - name: 'og:type'
       value: website
