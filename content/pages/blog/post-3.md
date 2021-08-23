@@ -6,7 +6,7 @@ categories:
   - content/data/categories/general.yaml
 tags:
   - Discord
-  - null
+  - PotatoSMP
 image: /images/Banner templet (6).png
 image_alt: Post 3 placeholder image
 excerpt: >-
