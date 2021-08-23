@@ -34,7 +34,7 @@ seo:
       value: images/5.png
       relativeUrl: true
 layout: post
-title: Informtion
+title: Information
 excerpt: "We are and active community that all the time try to strive to a better and more secure space for everyone that joins it! When you join we want you to keep like you found the place right for you and not to feel horrible or unwanted.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_So please take your time and get to know us a little bit more :>"
 ---
 
