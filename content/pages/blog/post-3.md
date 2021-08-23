@@ -1,6 +1,6 @@
 ---
 title: Our Support Team
-date: '2020-05-28'
+date: '2021-08-23'
 author: content/data/team/gordon-norman.yaml
 categories:
   - content/data/categories/general.yaml
