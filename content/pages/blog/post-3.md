@@ -41,9 +41,9 @@ seo:
       relativeUrl: true
 layout: post
 ---
+We as every server on discord have our own support team to help you out, we have 4 high council members and a few new and amazing members to help you out on our server. We always strive to make our server a safe and nice place to hang out with ur friends or to just meet new people, we want you to feel welcome and have that extra security feeling like you can be urself in here with us. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non est ista, inquam, Piso, magna dissensio. Callipho ad virtutem nihil adiunxit nisi voluptatem, Diodorus vacuitatem doloris. Aut haec tibi, Torquate, sunt vituperanda aut patrocinium voluptatis repudiandum. Invidiosum nomen est, infame, suspectum. Dolor ergo, id est summum malum, metuetur semper, etiamsi non aderit; Duo Reges: constructio interrete. Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Quae fere omnia appellantur uno ingenii nomine, easque virtutes qui habent, ingeniosi vocantur. Ut aliquid scire se gaudeant?
+You probably wonder how to apply to our great support team, well I have you covered here is the link to our application site. 
 
-Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis, inquit, me dixisse. Quid igitur, inquit, eos responsuros putas? Age, inquies, ista parva sunt. Negabat igitur ullam esse artem, quae ipsa a se proficisceretur;
+<https://docs.google.com/forms/d/e/1FAIpQLSdTh0kQ_r4bsv_0Eps4yH1kex_5Ep3J5yHziyTTBb8VsudgbQ/viewform>
 
-Cur ipse Pythagoras et Aegyptum lustravit et Persarum magos adiit? Ex ea difficultate illae fallaciloquae, ut ait Accius, malitiae natae sunt. Quorum sine causa fieri nihil putandum est. Sit enim idem caecus, debilis. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; Intrandum est igitur in rerum naturam et penitus quid ea postulet pervidendum; Urgent tamen et nihil remittunt. Quae contraria sunt his, malane? Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat. Atque his de rebus et splendida est eorum et illustris oratio. Haec para/doca illi, nos admirabilia dicamus. Non est ista, inquam, Piso, magna dissensio.
