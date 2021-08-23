@@ -23,9 +23,7 @@ sections:
       background_image_opacity: 30
       background_image_size: auto
       background_image_repeat: repeat
-      background_image: >-
-        /images/50+ Beautiful Dual Monitors Desktop Wallpapers -
-        Hongkiat-97a4dde7.jpeg
+      background_image: /images/Banner templet (2)-2db2112c.png
   - type: features_section
     title: Our Features
     features:
