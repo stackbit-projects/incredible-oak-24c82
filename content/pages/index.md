@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Welcome To PotatoSMP
     actions:
-      - label: Learn More
+      - label: Join Our Server
         url: /features
         style: primary
       - label: Contact Us
