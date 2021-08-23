@@ -29,7 +29,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "title": "Home "
     },
     "footer": {
         "has_nav": true,
