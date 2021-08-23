@@ -5,7 +5,7 @@ sections:
     title: Welcome To PotatoSMP
     actions:
       - label: Join Our Server
-        url: /features
+        url: 'https://discord.gg/y3NASNRjqR'
         style: primary
       - label: Contact Us
         url: /contact
