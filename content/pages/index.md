@@ -22,7 +22,7 @@ sections:
       background_image: /images/wallpapersden.com_purple-city_1336x768.jpg
     subtitle: >-
       Here is our offical website page, where you can read about our server and
-      learn more. So warm welcome to our 
+      learn more. So warm welcome to our first official webpage.
   - type: features_section
     title: Our Features
     features:
