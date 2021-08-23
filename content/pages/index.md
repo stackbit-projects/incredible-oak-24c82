@@ -20,7 +20,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
       background_image: /images/wallpapersden.com_purple-city_1336x768.jpg
-    subtitle: Here is our
+    subtitle: 'Here is our offical website page, where you can read about our server '
   - type: features_section
     title: Our Features
     features:
