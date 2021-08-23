@@ -1,5 +1,5 @@
 ---
-date: '2020-06-02'
+date: '2021-08-23'
 author: content/data/team/gordon-norman.yaml
 categories: []
 tags:
