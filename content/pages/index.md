@@ -20,7 +20,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
       background_image: /images/wallpapersden.com_purple-city_1336x768.jpg
-    subtitle: 'HERE is lur '
+    subtitle: Here
   - type: features_section
     title: Our Features
     features:
