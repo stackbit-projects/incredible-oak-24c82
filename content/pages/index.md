@@ -23,7 +23,7 @@ sections:
       background_image_opacity: 30
       background_image_size: auto
       background_image_repeat: repeat
-      background_image: /images/Banner templet (2)-2db2112c.png
+      background_image: /images/1628442394351-fcd4032c.png
   - type: features_section
     title: Our Features
     features:
