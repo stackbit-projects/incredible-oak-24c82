@@ -23,7 +23,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-      background_image: /images/_.jpeg
+      background_image: /images/S-M-011YM-Pastel-Purple-1-1020x425.jpg
   - type: features_section
     title: Our Features
     features:
